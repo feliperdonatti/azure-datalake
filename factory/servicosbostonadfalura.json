@@ -1,0 +1,9 @@
+{
+	"name": "servicosbostonadfalura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adabb740-0f1a-46ab-a8b9-7e2f1bccbdf3",
+		"tenantId": "6924228a-496b-4ad5-82fd-9bcf4efe7e24"
+	}
+}
